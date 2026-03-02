@@ -1,3 +1,5 @@
 vendor
 tests/mysql.local.neon
 composer.lock
+
+.idea/
